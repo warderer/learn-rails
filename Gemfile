@@ -9,6 +9,8 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
+gem 'byebug'
+gem 'web-console', '~> 2.0'
 
 # learn-rails
 gem 'activerecord-tableless'
@@ -18,7 +20,7 @@ gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
-gem 'zurb-foundation'
+gem 'foundation-rails'
 
 group :development do
 gem 'better_errors'
