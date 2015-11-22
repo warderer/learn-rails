@@ -3,7 +3,7 @@ ruby '2.2.3'
 gem 'rails', '4.2.4'
 # Rails defaults
 gem 'sqlite3'
-gem 'sass-rails', '~> 4.0.0'
+gem 'sass-rails', '~> 5.0.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
@@ -14,7 +14,7 @@ gem 'web-console', '~> 2.0'
 
 # learn-rails
 gem 'activerecord-tableless'
-gem 'compass-rails', '~> 2.0.alpha.0'
+gem 'compass-rails', '~> 2.0.5'
 gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
